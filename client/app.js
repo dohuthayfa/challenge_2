@@ -1,3 +1,6 @@
+// package.json is node to connect b/t server and device
+// CSV is like Exale file 
+
 
 
 //Submitting data with AJAX 
